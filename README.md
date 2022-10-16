@@ -69,19 +69,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-##Head:
+## Head:
 ![ss1](https://user-images.githubusercontent.com/115924983/196042257-2a57622f-1e39-47f0-9014-da40193391f2.png)
 
-##Predicted values:
+## Predicted values:
 ![ss2](https://user-images.githubusercontent.com/115924983/196042292-2a187e9c-d477-4f04-a1d1-aed3d1e6fe8b.png)
 
-##Accuracy:
+## Accuracy:
 ![ss3](https://user-images.githubusercontent.com/115924983/196042322-d94b1dc4-756c-41d1-a16b-e89d1e00f757.png)
 
-##Confusion matrix:
+## Confusion matrix:
 ![ss4](https://user-images.githubusercontent.com/115924983/196042396-f10f28a5-e657-4c33-994e-d604cd75fbff.png)
 
-##Classic report:
+## Classic report:
 ![ss5](https://user-images.githubusercontent.com/115924983/196042421-03654517-181e-4541-b202-f188d6b9565c.png)
 
 
